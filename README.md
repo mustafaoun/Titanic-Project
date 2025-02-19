@@ -51,20 +51,6 @@ The Titanic dataset is a classic dataset used for binary classification tasks. I
 - Seaborn
 - Scikit-learn
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Titanic-Dataset-Analysis.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Titanic-Dataset-Analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter Notebook or Python scripts.
 
 ## Repository Structure
 ```
