@@ -70,7 +70,7 @@ Titanic-Dataset-Analysis/
 
 ## Contact
 Feel free to reach out for any questions or suggestions:
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/mustafa-oun/])
+- **LinkedIn:** ([https://www.linkedin.com/in/mustafa-oun/])
 - **GitHub:** [Your GitHub Profile](https://github.com/mustafaoun)
 
 ## License
